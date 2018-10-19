@@ -3,15 +3,15 @@ var cells;
 
 var generation = 0;
 
-// var ruleset = [0, 0, 0, 1, 1, 1, 1, 0]; // Rule 30 !
-var ruleset = [0, 0, 1, 0, 1, 1, 0, 1]; // Rule 45 !
+var ruleset = [0, 0, 0, 1, 1, 1, 1, 0]; // Rule 30 !
+//var ruleset = [0, 0, 1, 0, 1, 1, 0, 1]; // Rule 45 !
 // var ruleset = [0, 0, 1, 1, 1, 1, 1, 0]; // Rule 62
 // var ruleset = [0, 1, 0, 1, 1, 0, 1, 0]; // Rule 90
 // var ruleset = [0, 1, 0, 1, 1, 1, 1, 0]; // Rule 94
 // var ruleset = [0, 0, 1, 1, 0, 1, 1, 0]; // Rule 54
 // var ruleset = [0, 0, 1, 1, 1, 0, 0, 1]; // Rule 57
 // var ruleset = [0, 0, 1, 1, 1, 1, 1, 0]; // Rule 62
-var ruleset = [0, 1, 0, 0, 1, 0, 0, 1]; // Rule 73 !
+// var ruleset = [0, 1, 0, 0, 1, 0, 0, 1]; // Rule 73 !
 // var ruleset = [0, 1, 1, 0, 1, 0, 0, 1]; // Rule 105
 // var ruleset = [1, 0, 0, 0, 0, 1, 0, 1]; // Rule 133
 // var ruleset = [1, 0, 0, 0, 0, 1, 1, 1]; // Rule 135
@@ -20,9 +20,9 @@ var ruleset = [0, 1, 0, 0, 1, 0, 0, 1]; // Rule 73 !
 // var ruleset = [1, 0, 0, 1, 1, 1, 0, 0]; // Rule 156
 // var ruleset = [1, 0, 0, 1, 1, 1, 0, 1]; // Rule 157
 // var ruleset = [1, 0, 1, 0, 0, 1, 1, 1]; // Rule 167
-var ruleset = [1, 0, 1, 1, 1, 1, 1, 0]; // Rule 190
+// var ruleset = [1, 0, 1, 1, 1, 1, 1, 0]; // Rule 190
 // var ruleset = [1, 1, 0, 0, 0, 0, 0, 1]; // Rule 193
-var ruleset = [1, 1, 0, 0, 0, 0, 1, 1]; // Rule 195
+// var ruleset = [1, 1, 0, 0, 0, 0, 1, 1]; // Rule 195
 // var ruleset = [1, 1, 0, 1, 0, 0, 1, 0]; // Rule 210
 // var ruleset = [1, 1, 0, 1, 0, 1, 1, 0]; // Rule 214
 // var ruleset = [1, 1, 0, 1, 1, 0, 1, 0]; // Rule 218
